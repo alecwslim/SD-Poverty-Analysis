@@ -1,20 +1,7 @@
-This is your group repo for your final project for COGS108.
+The primary motivation for this research project was to investigate the relationship between proximity to military and industrial land, poverty, and the rates of environmental illness in cities within San Diego County, California. Given the significant industrial and military presence in the area, particularly around the Port of San Diego, we hypothesized that both proximity to such areas and poverty would be strong predictors of environmental illness rates. Previous studies have highlighted the health risks associated with living near industrial sites in other cities, prompting us to explore if similar patterns exist in San Diego.
 
-This repository is private, and is only visible to the course instructors and your group mates; it is not visible to anyone else.
+Our analysis revealed an unexpected result: Proximity to military and industrial land was not a statistically significant predictor of environmental illness rates, with a P-value of 0.117. This finding contrasts with existing literature that associates industrial proximity with increased health risks, suggesting that other factors may be mitigating this effect in San Diego County or that there exist socioeconomic factors leading individuals ill with non-fatal conditions in areas more affected by poverty to avoid seeking treatment (thereby skewing the resulting county-wide data).
 
-Template notebooks for each component are provided. Only work on the notebook prior to its due date. After each submission is due, move onto the next notebook (For example, after the proposal is due, start working in the Data Checkpoint notebook). 
+In contrast, our findings confirmed that poverty is a significant predictor of environmental illness rates. The data showed a strong positive correlation between higher poverty rates and increased instances of environmental illnesses, underscoring the significant impact of socioeconomic status on health outcomes. This highlights the critical role that socioeconomic factors play in environmental health disparities, particularly in low-income cities such as National City.
 
-This repository will be frozen on the final project due date. No further changes can be made after that time.
-
-Your project proposal and final project will be graded based solely on the corresponding project notebooks in this repository.
-
-Template Jupyter notebooks have been included, with your group number replacing the XXX in the following file names. For each due date, make sure you have a notebook present in this repository by each due date with the following name (where XXX is replaced by your group number):
-
-- `ProjectProposal_groupXXX.ipynb`
-- `DataCheckpoint_groupXXX.ipynb`
-- `EDACheckpoint_groupXXX.ipynb`
-- `FinalProject_groupXXX.ipynb`
-
-This is *your* repo. You are free to manage the repo as you see fit, edit this README, add data files, add scripts, etc. So long as there are the four files above on due dates with the required information, the rest is up to you all. 
-
-Also, you are free and encouraged to share this project after the course and to add it to your portfolio. Just be sure to fork it to your GitHub at the end of the quarter!
+In conclusion, while proximity to military and industrial areas may not be as influential as previously thought, addressing poverty is crucial for mitigating environmental health disparities in San Diego County. These results call for a comprehensive approach to public health that includes socioeconomic interventions and targeted policies to improve living conditions and healthcare access for impoverished communities, thereby promoting health equity across the region.
